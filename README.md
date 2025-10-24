@@ -4,18 +4,18 @@ A Retrieval-Augmented Generation (RAG) chatbot that allows you to chat with your
 
 ## Features
 
-- 📄 Upload multiple documents (PDF, TXT, MD)
-- 🔍 Intelligent document chunking and indexing
-- 💬 Interactive chat interface
-- 🎯 Context-aware responses with source citations
-- 💾 Persistent vector storage with ChromaDB
-- 🚀 Easy to use Streamlit interface
+-  Upload multiple documents (PDF, TXT, MD)
+-  Intelligent document chunking and indexing
+-  Interactive chat interface
+-  Context-aware responses with source citations
+-  Persistent vector storage with ChromaDB
+-  Easy to use Streamlit interface
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rag-chatbot.git
+git clone https://github.com/Paarth-Shukla/rag-chatbot.git
 cd rag-chatbot
 ```
 
