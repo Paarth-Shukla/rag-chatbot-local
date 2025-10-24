@@ -66,7 +66,7 @@ rag-chatbot/
 │   ├── vector_store.py        # ChromaDB operations
 │   └── rag_chain.py           # RAG pipeline
 ├── requirements.txt
-├── .env.example
+├── .env
 ├── .gitignore
 └── README.md
 ```
